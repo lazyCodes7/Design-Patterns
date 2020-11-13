@@ -1,5 +1,7 @@
 /* CoffeeMachineInterface
 */
+package Week1.Assignments;
+
 interface CoffeeMachineInterface {
 
     void chooseFirstSelection();
